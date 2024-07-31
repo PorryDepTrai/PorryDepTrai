@@ -1,7 +1,7 @@
 
 
 <p align='center'>
-  <a href="discord://-/users/1110090935829794849">
+  <a href="https://discord.com/users/1110090935829794849">
     <img height=auto width=auto src="https://discord.c99.nl/widget/theme-4/1110090935829794849.png" height="1000px"/>
   </a>
 </p>
