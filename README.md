@@ -61,6 +61,7 @@ class Coding(Person):
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)]([discord://-/users/1110090935829794849](https://discord.com/users/1110090935829794849)) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/PorryLaTui) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@Porry999) 
 
 
+<img src="https://raw.githubusercontent.com/PorryDepTrai/PorryDepTrai/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 
   
