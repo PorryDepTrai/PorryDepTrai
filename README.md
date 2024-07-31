@@ -1,35 +1,12 @@
 
 
 <p align='center'>
-  <a href="#" id="discord-link">
-    <img src="https://discord.c99.nl/widget/theme-4/1110090935829794849.png" alt="Discord Profile Image" style="max-width:100%; height:auto;"/>
+  <a href="discord://-/users/1110090935829794849">
+  <a herf="https://discord.com/users/935224495126487150">
+    <img height=auto width=auto src="https://discord.c99.nl/widget/theme-4/1110090935829794849.png" height="1000px"/>
+  </a>
   </a>
 </p>
-
-<script>
-  document.getElementById('discord-link').addEventListener('click', function(e) {
-    e.preventDefault();
-    var discordUrl = "discord://-/users/1110090935829794849";
-    var fallbackUrl = "https://discord.com/users/935224495126487150";
-
-
-    var iframe = document.createElement('iframe');
-    iframe.style.display = 'none';
-    iframe.src = discordUrl;
-    document.body.appendChild(iframe);
-
-
-    setTimeout(function() {
-      window.location.href = fallbackUrl;
-    }, 100); 
-
-
-    setTimeout(function() {
-      document.body.removeChild(iframe);
-    }, 2000);
-  });
-</script>
-
 
 
 <p align='center'>
@@ -63,3 +40,4 @@
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/PorryDepTrai) 
 
 
+  
