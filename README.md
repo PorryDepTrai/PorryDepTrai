@@ -26,7 +26,7 @@ class Coding(Person):
         super().__init__()
     
     def program(self):
-        self.languges = ['python', 'lua', 'js']
+        self.languages = ['python', 'lua', 'js']
         self.interests = ['automation', 'roblox', 'exploit']
         self.enviroment = {
             'python' = 'PyCharm',
