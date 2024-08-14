@@ -1,6 +1,9 @@
 <p align='center'>
-  <a href="https://discord.com/users/1110090935829794849">
-    <img height=auto width=auto src="https://discord.c99.nl/widget/theme-4/1110090935829794849.png" height="1000px"/>
+  <a href="https://discord.com/users/1110090935829794849#gh-light-mode-only">
+    <img height=auto width=auto src="https://discord.c99.nl/widget/theme-5/1110090935829794849.png#gh-light-mode-only" height="1000px"/>
+  </a>
+  <a href="https://discord.com/users/1110090935829794849#gh-dark-mode-only">
+    <img height=auto width=auto src="https://discord.c99.nl/widget/theme-4/1110090935829794849.png#gh-dark-mode-only" height="1000px"/>
   </a>
 </p>
 
