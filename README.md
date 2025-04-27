@@ -9,7 +9,7 @@
 
 
 ---
-<p align='left'><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=853DD8&width=600&lines=Hi%2C+i'm+Porry+👋🏻;Passionate+about+coding+🖥️;Always+exploring+new+technologies+📚;Love+blending+art+with+programming+🎨💻;Bringing+creativity+to+every+line+of+code+✨;Python%2C+JS%2C+Lua+🌙" alt="Typing SVG" /></a></p>
+<p align='left'><a href="https://git.io/typing-svg"><img src="https%3A%2F%2Freadme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26pause%3D1000%26color%3D853DD8%26width%3D600%26lines%3DHi%252C%2Bi%27m%2BPorry%2B%F0%9F%91%8B%F0%9F%8F%BB%3BPassionate%2Babout%2Bcoding%2B%F0%9F%96%A5%EF%B8%8F%3BAlways%2Bexploring%2Bnew%2Btechnologies%2B%F0%9F%93%9A%3BLove%2Bblending%2Bart%2Bwith%2Bprogramming%2B%F0%9F%8E%A8%F0%9F%92%BB%3BBringing%2Bcreativity%2Bto%2Bevery%2Bline%2Bof%2Bcode%2B%E2%9C%A8%3BPython%252C%2BJS%252C%2BLua%2B%F0%9F%8C%99" alt="Typing SVG" /></a></p>
 
 [![Typing SVG]([https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=853DD8&width=600&lines=Hi%2C+i%27m+Porry+%F0%9F%91%8B%F0%9F%8F%BB;Passionate+about+coding+%F0%9F%96%A5%EF%B8%8F;Always+exploring+new+technologies+%F0%9F%93%9A;Love+blending+art+with+programming+%F0%9F%8E%A8%F0%9F%92%BB;Bringing+creativity+to+every+line+of+code+%E2%9C%A8;Python%2C+JS%2C+Lua+%F0%9F%8C%99))](https://git.io/typing-svg)
 
