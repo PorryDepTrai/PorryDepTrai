@@ -11,8 +11,6 @@
 ---
 <p align='left'><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=853DD8&width=600&lines=Hi%2C+i%27m+Porry+%F0%9F%91%8B%F0%9F%8F%BB;Passionate+about+coding+%F0%9F%96%A5%EF%B8%8F;Always+exploring+new+technologies+%F0%9F%93%9A;Love+blending+art+with+programming+%F0%9F%8E%A8%F0%9F%92%BB;Bringing+creativity+to+every+line+of+code+%E2%9C%A8;Python%2C+JS%2C+Lua+%F0%9F%8C%99" alt="Typing SVG" /></a></p>
 
-[![Typing SVG]([https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=853DD8&width=600&lines=Hi%2C+i%27m+Porry+%F0%9F%91%8B%F0%9F%8F%BB;Passionate+about+coding+%F0%9F%96%A5%EF%B8%8F;Always+exploring+new+technologies+%F0%9F%93%9A;Love+blending+art+with+programming+%F0%9F%8E%A8%F0%9F%92%BB;Bringing+creativity+to+every+line+of+code+%E2%9C%A8;Python%2C+JS%2C+Lua+%F0%9F%8C%99))](https://git.io/typing-svg)
-
 ```py
 from vietnam import Porry
 
