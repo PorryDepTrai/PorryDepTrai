@@ -15,7 +15,7 @@
 from vietnam import Porry
 
 class Person(Porry):
-    def __init__(self, name, age=17):
+    def __init__(self, name, age=18):
         self.name = 'Porry'
         self.age = age
     
